@@ -7,7 +7,7 @@ const div=(
         {false}
         {undefined}
         {null}
-    </div>
+    </div>   
 )
 //위에 있는 4가지는 그려지지 않음
 
