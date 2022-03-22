@@ -10,7 +10,7 @@ const SlotMachine = function(props){
                 <p>{props.s1} {props.s2} {props.s3}</p>
                 <p></p>Congratz!
             </div>
-        ) 
+        )                  
     }
     else {
         return (
