@@ -5,4 +5,6 @@
 //import './component-basic/props-children';
 //import './component-basic/sol_slot_machine';
 //import './component-intermediate/state-study-1';
-import './component-intermediate/state-study-with-inner-object';
+//import './component-intermediate/state-study-with-inner-object';
+//import './component-intermediate/counter-demo';
+import './component-intermediate/manipulate-list';

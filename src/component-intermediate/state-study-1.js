@@ -7,7 +7,8 @@ const Counter = function(props){
     return (
         <div>
             <h1>{count}</h1>
-            <button onClick={()=> setCount(count+1)}>증가</button>
+            <button onClick={()=> setCount(previous=> previous+1)}>증가</button>
+            //함수를 넣으면 이전값이 들어옴
             <button onClick={()=> setCount(count-1)} style={{background:'blue', color:'white'} }>감소</button>
         </div>
     )
@@ -48,7 +49,7 @@ const StateDemoComponent = function(props){
         val2 : 1000
     })
 
-    return (
+    return ( 
         <div>
             <button onClick={()=>{
                 if(state.val1 =="Hello"){
