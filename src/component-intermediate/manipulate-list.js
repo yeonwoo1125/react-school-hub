@@ -18,7 +18,7 @@ const ListItem = function({ onRemove, onUpdate, item: { id, value } }) {
             <button onClick={() => onUpdate(id, { id: id, value: value + 1 }) /* 필요한 인자값(추가할 객체) 전달 */}>update</button>
         </div>
     )
-}
+    }
 
 const ListComponent = function(props) {
     const [list, setList] =  useState([])
