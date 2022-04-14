@@ -23,4 +23,5 @@
 //import './component-advanced/reservation-form';
 //import './component-advanced/uncontrolled-component';
 //import './use-ref-demo/use-ref-practice-form';
-import './component-advanced/forwarding-refs';
+//import './component-advanced/forwarding-refs';
+import './component-advanced/fake-login';
