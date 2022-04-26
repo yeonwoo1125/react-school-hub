@@ -24,4 +24,11 @@
 //import './component-advanced/uncontrolled-component';
 //import './use-ref-demo/use-ref-practice-form';
 //import './component-advanced/forwarding-refs';
-import './component-advanced/fake-login';
+//import './component-advanced/fake-login';
+//import './component-advanced/github-repo-search';
+//import './component-styling/using-css';
+//import './component-styling/using-css-module';
+//import './component-styling/using-sass';
+//import './component-styling/using-styled-components';
+//import './component-styling/using-svg'
+import './component-styling/using-react-icons';
