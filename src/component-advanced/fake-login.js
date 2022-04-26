@@ -73,7 +73,8 @@ function UserButton(props){
                     cell: data.results[0].cell,
                 });
                 setFetching(false)
-            })     
+            })
+     
     }
 
     const handleLogout = () => {
