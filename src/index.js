@@ -32,4 +32,7 @@
 //import './component-styling/using-styled-components';
 //import './component-styling/using-svg'
 //import './component-styling/using-react-icons';
-import './use-reduce-demo/use-reducer-counter-1';
+//import './use-reduce-demo/use-reducer-counter-1';
+//import './use-reduce-demo/use-reducer-todo-app-1';
+//import './use-callback-memo-demo/use-memo-demo';
+import './use-callback-memo-demo/user-manage-app';
