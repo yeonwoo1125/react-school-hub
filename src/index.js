@@ -36,4 +36,5 @@
 //import './use-reduce-demo/use-reducer-todo-app-1';
 //import './use-callback-memo-demo/use-memo-demo';
 //import './use-callback-memo-demo/user-manage-app';
-import './use-callback-memo-demo/using-react-memo';
+//import './use-callback-memo-demo/using-react-memo';
+import './suhang/DrawStar';
